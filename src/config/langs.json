@@ -2,64 +2,6 @@
 	"server.error": {
 		"en": "Unexpected error",
 		"es": "Error inespereado"
-	},
-	"rol.create":{
-		"en": "Rol created successfully",
-		"es": "Rol creado exitosamente"
-	},
-	"rol.update":{
-		"en": "Rol updated successfully",
-		"es": "Rol actualizado exitosamente"
-	},
-	"rol.validator.exist.not": {
-		"en": "Role does not exist",
-		"es": "El rol no existe"
-
-	},
-	"permission.create": {
-		"en": "Permission created successfully",
-		"es": "Permiso creado exitosamente"
-	},
-	"permission.update":{
-		"en": "Permission updated successfully",
-		"es": "Permiso actualizado exitosamente"
-	},
-	"permission.validator.exist.not":{
-		"en": "Permission does not exist",
-		"es": "El permiso no existe"
-	},
-	"user.create":{
-		"en": "User created successfully",
-		"es": "Usuario creado exitosamente"
-	},
-	"user.update":{
-		"en": "User updated successfully",
-		"es": "Usuario actualizado exitosamente"
-	},
-	"order.create":{
-
-	},
-	"campus.create":{
-		"en": "Campus created successfully",
-		"es": "Sede creada exitosamente"
-
-	},
-	"campus.update":{
-		"en": "Campus updated successfully",
-		"es": "Sede actualizada exitosamente"
-
-	},
-	"campus.validators.exist.not":{
-		"en": "Campus does not exist",
-		"es": "La sede no existe"
-	},
-	"area.create": {
-		"en": "Araea created successfully",
-		"es": "Area creada exitosamente"
-	},
-	"validators.email.alreadyExist": {
-		"en": "Email already exists",
-		"es": "El email ya se encuentra en uso"
 	}
-	
+		
 }
